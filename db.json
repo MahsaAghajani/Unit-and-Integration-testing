@@ -1,9 +1,27 @@
-{
-    "1": {
+[
+    {
         "id": 1,
-        "name": "Study React",
-        "description": "1 hour a day",
-        "isComplete": false
+        "name": "Mahsa",
+        "points": "11"
+    },
+    {
+        "id": 1,
+        "name": "Matt",
+        "points": "11"
+    },
+    {
+        "id": 1,
+        "name": "Mahsa",
+        "points": "11"
+    },
+    {
+        "id": 1,
+        "name": "Mahsa",
+        "points": "11"
+    },
+    {
+        "id": 1,
+        "name": "Mahsa",
+        "points": "11"
     }
-    
-}
+]
