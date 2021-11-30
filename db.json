@@ -1,27 +1,28 @@
-[
-    {
+{
+    "1": {
         "id": 1,
         "name": "Mahsa",
         "points": "11"
     },
-    {
+    "2": {
         "id": 1,
         "name": "Matt",
         "points": "11"
     },
-    {
+    "3": {
         "id": 1,
         "name": "Mahsa",
         "points": "11"
     },
-    {
+    "4": {
         "id": 1,
         "name": "Mahsa",
         "points": "11"
     },
-    {
+    "5": {
         "id": 1,
         "name": "Mahsa",
         "points": "11"
     }
-]
+    
+}
